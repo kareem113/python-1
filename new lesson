@@ -1,0 +1,12 @@
+# variables
+name="kareem nasseer"
+age= 29
+status=True
+location="Egypt"
+a=b=c=3
+a,b,c=1,'kareem',False
+print(a)
+var="5"
+var=int(var)
+print(var)
+del(var)
